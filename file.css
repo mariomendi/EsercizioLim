@@ -1,0 +1,49 @@
+body{
+    background-image: url(sfondo.jpg);
+    background-size: 1950px;
+    color: white;
+}
+
+.conteiner{
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 3cm;
+    margin-top: 1cm;
+}
+
+h1{
+    color: #83f52c;
+}
+
+.logo{
+    width: 200px;
+}
+
+nav{
+    background-color: #83f52c;
+    font-size: 22px;
+}
+
+button{
+    margin-bottom: 0.15cm;
+}
+
+
+h2{
+    display: inline-block;
+}
+
+.Monopattino1, .Monopattino2, .Monopattino3{
+    text-align: left;
+}
+
+
+.mono3, .mono2, .mono1{
+    margin: 0px;
+    border-radius: 13%;
+}
+
+
+
